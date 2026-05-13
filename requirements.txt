@@ -1,0 +1,14 @@
+streamlit==1.57.0
+python-dotenv==1.2.2
+nltk==3.9.4
+unstructured==0.22.28
+unstructured[pdf]==0.22.28
+transformers==5.8.1
+sentence-transformers==5.5.0
+langchain-huggingface==1.2.2
+langchain-text-splitters==1.1.2
+langchain-community==0.4.1
+langchain-openai==1.2.1
+youtube-search-python==1.6.6
+langchain-chroma==1.1..0
+httpx==0.28.1
